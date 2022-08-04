@@ -1,0 +1,38 @@
+.goggleDesign{
+    font-size: 80px;
+    text-align: center;
+ }
+
+ input {
+     width: 40vw;
+     height: 9vh;
+     border-radius: 35px 34px 34px 34px;
+     font-size: 34px;
+     text-align: center;
+ }
+
+ button {
+     margin: 11px;
+     height: 5vh;
+     background: #fff;
+     border: #eee 1px solid;
+     text-align: center;
+     border-radius: 5px 0px 0px 0px;
+     justify-content: space-between;
+
+}
+
+.text {
+    text-align: center;
+}
+
+
+.button {
+    text-align: center;
+}
+
+.blog {
+    text-align: center;
+    font-size: 23px;
+}
+
